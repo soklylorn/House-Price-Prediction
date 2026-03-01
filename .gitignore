@@ -1,2 +1,29 @@
-Interaction with Kaggle.rtf
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Mac
 .DS_Store
+
+# Data (DO NOT push raw datasets)
+data/raw/
+
+# Large files
+*.csv
+*.xlsx
+*.pkl
+*.joblib
