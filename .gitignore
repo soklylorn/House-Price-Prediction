@@ -22,6 +22,7 @@ env/
 # Data (DO NOT push raw datasets)
 data/raw/
 
+Interaction with Kaggle.rtf
 # Large files
 *.csv
 *.xlsx
